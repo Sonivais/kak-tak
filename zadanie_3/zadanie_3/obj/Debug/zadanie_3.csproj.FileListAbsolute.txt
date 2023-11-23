@@ -1,0 +1,15 @@
+G:\Zadanie2\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe.config
+G:\Zadanie2\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe
+G:\Zadanie2\zadanie_3\zadanie_3\bin\Debug\zadanie_3.pdb
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\MainWindow.g.cs
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\App.g.cs
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3_MarkupCompile.cache
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3_MarkupCompile.lref
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\MainWindow.baml
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.g.resources
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.exe
+G:\Zadanie2\zadanie_3\zadanie_3\obj\Debug\zadanie_3.pdb
